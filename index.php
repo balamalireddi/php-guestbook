@@ -85,6 +85,19 @@
              })
              .catch(function(res){ console.log("ERROR: " + res) });
           });
+
+          /**
+           * Auto-refresh posts ever 5 secs. // uncomment if you need it
+           */
+          // setInterval(() => {
+          //   updateDate();
+          //   gbTextFile = "gbentries.txt?v="+h+m+s;
+          //   fetch(gbTextFile)
+          //   .then(response => response.text())
+          //   .then((data) => {
+          //     gbContainer.innerHTML = data;
+          //   })
+          // }, 5000);
         </script>
       </section>
   </body>
