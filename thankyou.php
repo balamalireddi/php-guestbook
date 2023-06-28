@@ -1,17 +1,17 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Guest Book - Thank You</title>
+		<title>Thanks</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body>
-		<div id="nomargin">
+		<div>
 			<section>
-				<div class="container  extrablk">
+				<div class="container">
 					<header>
-						<h2>Thank you for your RSVP!</h2><a href="./"><< Back </a>
+						<h2>Thank you :)</h2><a href="./">&larr; Back </a>
 					</header>
 				</div>
 			</section>
